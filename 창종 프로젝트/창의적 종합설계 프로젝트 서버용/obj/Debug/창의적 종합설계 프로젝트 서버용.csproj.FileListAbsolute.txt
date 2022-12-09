@@ -1,0 +1,39 @@
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.exe.config
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.exe
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.pdb
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.AssemblyReference.cache
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.Properties.Resources.resources
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.GenerateResource.cache
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.CoreCompileInputs.cache
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.exe
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.pdb
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL서버메인.resources
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL고객DB.resources
+C:\Users\user\source\c#\창의적 종합설계 프로젝트 서버용\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL문제.resources
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.exe.config
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.exe
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.pdb
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL고객DB.resources
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL문제.resources
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL서버메인.resources
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.Properties.Resources.resources
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.GenerateResource.cache
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.exe
+C:\Users\user\Desktop\오늘 수업\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.pdb
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL고객DB.resources
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL문제.resources
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.TEL서버메인.resources
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적_종합설계_프로젝트_서버용.Properties.Resources.resources
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.GenerateResource.cache
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.exe
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\obj\Debug\창의적 종합설계 프로젝트 서버용.pdb
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.exe.config
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.exe
+C:\Users\user\Desktop\창종 프로젝트\창의적 종합설계 프로젝트 서버용\bin\Debug\창의적 종합설계 프로젝트 서버용.pdb
